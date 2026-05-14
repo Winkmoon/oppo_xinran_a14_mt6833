@@ -1458,7 +1458,7 @@ ff_pins_irq_as_int: ff_pins_irq_as_int {
 
 /* GPS GPIO standardization end */
 #include "mediatek/cust_mt6833_camera_22631.dtsi"
-#include <oplus6833_22631/cust.dtsi>
+//<oplus6833_22631/cust.dtsi>
 
 #include "mediatek/oplus_charge_mt6833_22631.dtsi"
 &mmc1 {

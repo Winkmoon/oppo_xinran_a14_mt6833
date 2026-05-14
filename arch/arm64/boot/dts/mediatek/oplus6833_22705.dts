@@ -999,7 +999,7 @@
 //#endif  /*OPLUS_VENDOR_SWTP*/
 //#endif /* OPLUS_FEATURE_FINGERPRINT */
 #include "mediatek/cust_mt6833_camera_22705.dtsi"
-#include <oplus6833_22705/cust.dtsi>
+//<oplus6833_22705/cust.dtsi>
 //#include "mediatek/cust_mt6833_nfc_20796.dtsi"
 
 //#ifdef OPLUS_FEATURE_CHG_BASIC

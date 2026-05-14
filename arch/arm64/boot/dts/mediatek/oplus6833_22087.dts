@@ -954,7 +954,7 @@
 
 /* GPS GPIO standardization end */
 #include "mediatek/cust_mt6833_camera_22087.dtsi"
-#include <oplus6833_22087/cust.dtsi>
+//<oplus6833_22087/cust.dtsi>
 
 /*Touch*/
 #include "mediatek/cust_mt6833_touch_22087.dtsi"
