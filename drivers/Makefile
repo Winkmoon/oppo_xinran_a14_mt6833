@@ -1,3 +1,4 @@
+ccflags-y += -Idrivers/misc/mediatek/scp/include
 # SPDX-License-Identifier: GPL-2.0
 #
 # Makefile for the Linux kernel device drivers.
